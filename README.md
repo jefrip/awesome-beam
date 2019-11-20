@@ -68,6 +68,8 @@ Various resources, such as books, websites and articles.
 ## Blogs and Blog Posts
 
 - [Official Beam Blog](http://beam.apache.org/blog/)
+- [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [Streaming 102: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 - [Python Development Environments for Beam on GCP](https://medium.com/google-cloud/python-development-environments-for-apache-beam-on-google-cloud-platform-b6f276b344df) - How to set up a development environment for Python Dataflow jobs.
 - [Java Development Environments for Beam on GCP](https://medium.com/google-cloud/setting-up-a-java-development-environment-for-apache-beam-on-google-cloud-platform-ec0c6c9fbb39) - How to set up a development environment for Java Dataflow / Beam jobs.
 - [Coding Apache Beam in your Web Browser and Running it in Cloud Dataflow](https://medium.com/google-cloud/coding-apache-beam-in-your-web-browser-and-running-it-in-cloud-dataflow-c41c275d42c8) - How to create and run a Beam Pipeline on Dataflow using Code Editor.
